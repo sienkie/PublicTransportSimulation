@@ -1,0 +1,22 @@
+40
+30 28 15 43
+0.23
+0.12
+34
+40
+0.17 0.26 0.73 0.54
+45
+3
+Banacha
+Krakowskie
+Centrum
+2
+2 Banacha 3 Centrum 2 Krakowskie 10
+2 Centrum 15 Banacha 10
+1
+Uniwersytet-Warszawski Banacha
+1
+Kwadrat Centrum 150
+2
+DTC Centrum
+Hale-Banacha Banacha
